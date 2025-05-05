@@ -21,6 +21,7 @@
 - **Repositorio Git creado** y actualizado con historial de commits
 - **Navegación básica entre páginas**
 - **Documentación de avance creada**
+- **Mejorado del index, ahora tiene una mejor intefaz**
 
 ## Herramientas utilizadas:
 
