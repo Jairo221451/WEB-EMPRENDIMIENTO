@@ -22,6 +22,7 @@
 - **Navegación básica entre páginas**
 - **Documentación de avance creada**
 - **Mejorado del index, ahora tiene una mejor intefaz**
+- **Implementacion basica del diagrama de Entidad-Relacion**
 
 ## Herramientas utilizadas:
 
